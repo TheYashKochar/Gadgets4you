@@ -20,3 +20,5 @@ Functionalities:
 -> Add New Products
 
 -> Delete a Product
+
+-> Basic Login/Log-out
