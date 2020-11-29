@@ -1,5 +1,5 @@
 # Gadgets4you
-A Basic CRUD Based Gadget Management Website
+A CRUD Based Gadget Management Website
 
 Technologies Used:
 
